@@ -4,6 +4,8 @@
 ## Overview
 This Python project delves into the meticulous cleaning and exploration of the FIFA 21 dataset, employing robust data analysis techniques powered by Pandas and NumPy. The objective is to ensure the dataset is primed for in-depth analysis, revealing valuable insights into the characteristics of FIFA 21 players.
 
+[Link to Dataset](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring)
+
 ## Key Objectives
 
 ### 1. Data Cleaning
